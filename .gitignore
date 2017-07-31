@@ -2,4 +2,4 @@
 
 !.gitignore
 !/1.txt
-!/add/**
+!add/**
