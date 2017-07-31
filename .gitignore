@@ -3,5 +3,5 @@
 !*/
 
 !.gitignore
-!/add/**
+!add/**
 !1.txt
